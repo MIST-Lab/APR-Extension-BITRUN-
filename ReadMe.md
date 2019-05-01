@@ -1,6 +1,7 @@
 # Abstractor 
 ### what: 
 	This is a modern cheat-sheet to make code a more abstract concept.
+	In other words, a Automatic Programming Repair tool.
 ### why:
 	Our work aims to package the complex programming details and left people more time to focus on something more important.
 ### why blockchain:
